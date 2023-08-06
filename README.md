@@ -7,6 +7,7 @@ Movies have always held a special place in our hearts, transporting us to differ
 Through this project, we aim to unravel the secrets of the film industry by analyzing a comprehensive dataset that encompasses various aspects of movies. We will delve into the realms of genres, box office revenues, ratings, release dates, and much more. By extracting meaningful insights from this data, we can gain a better understanding of the factors that contribute to a movie's success and popularity.
 
 Methodology
+
 The following steps will be taken to perforn this Exploratory Data Analysis.
 
 - Data cleaning:We will deal with duplicate entries,missing values, inconsistent data, wrong data types etc

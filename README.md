@@ -9,8 +9,8 @@ Through this project, we aim to unravel the secrets of the film industry by anal
 Methodology
 The following steps will be taken to perforn this Exploratory Data Analysis.
 
-Data cleaning:We will deal with duplicate entries,missing values, inconsistent data, wrong data types etc
-Non-graphical analysis:variables,basic metrics ,data types.
-Exploratory Data Analysis and Visualizatation: Analysis of trends and patterns with charts, plots etc
-Asking and Answering Questions
-Inferences and Conclusions
+- Data cleaning:We will deal with duplicate entries,missing values, inconsistent data, wrong data types etc
+- Non-graphical analysis:variables,basic metrics ,data types.
+- Exploratory Data Analysis and Visualizatation: Analysis of trends and patterns with charts, plots etc
+- Asking and Answering Questions
+- Inferences and Conclusions
